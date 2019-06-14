@@ -1,0 +1,31 @@
+body {
+	text-align: center;
+	background-color:#EAE5E5;
+	font-family: 'Lato', sans-serif;
+}
+h1{
+	text-transform: capitalize;
+}
+#img-div{
+	border: 1px solid rgb(255,255,255);
+	background-color:rgb(255,255,255);
+}
+ul{
+	text-align:left;
+	position: relative;
+	margin-left: 40%;
+	width: 29%;
+}
+img{
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+}
+.line{
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+}
+.incrs{
+	font-size:25px;
+}
